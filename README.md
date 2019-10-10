@@ -21,7 +21,8 @@ class MultiSidedDie:
 
   #define method 'get_value' to return the current value of the MultiSidedDie
 
-  #define method 'set_value' to set the die to a particular value```
+  #define method 'set_value' to set the die to a particular value
+  ```
   
 
 Create class MultiSidedDie with attributes number of sides and value.
