@@ -9,7 +9,7 @@ When a new MultiSidedDie is created, specify how many sides it will have (e.g nu
 ## Steps
 Copy the following code into a script called multi_sided_die.py:
 
-#class definition for an n-sided die
+```#class definition for an n-sided die
 
 #import packages
 
@@ -21,7 +21,8 @@ class MultiSidedDie:
 
   #define method 'get_value' to return the current value of the MultiSidedDie
 
-  #define method 'set_value' to set the die to a particular value
+  #define method 'set_value' to set the die to a particular value```
+  
 
 Create class MultiSidedDie with attributes number of sides and value.
 Create class methods for rolling the die, getting the value of the die and setting the value of the die.
